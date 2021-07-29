@@ -25,3 +25,9 @@ for Android:
 
 Build Android: `yarn android`
 
+# FAQ
+
+### Issues building on Apple Sillicon (Mac m1)
+
+Check [this post](https://khushwanttanwar.medium.com/xcode-12-compilation-errors-while-running-with-ios-14-simulators-5731c91326e9) out. In summary make sure to exclude Arm64 from the project architecture.
+
