@@ -25,6 +25,10 @@ for Android:
 
 Build Android: `yarn android`
 
+# Code guidelines
+
+The project uses ESLINT and Prettier to have consistency. We expect every change to abide to these two tools.
+
 # FAQ
 
 ### Issues building on Apple Sillicon (Mac m1)
