@@ -25,6 +25,7 @@
     "react-test-renderer": "17.0.1"
   },
   "jest": {
-    "preset": "react-native"
+    "preset": "react-native",
+    "reporters": ["default", "<rootDir>/g2iJestReporter.js"]
   }
 }
