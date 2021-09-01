@@ -1927,6 +1927,10 @@ cli-cursor@^2.1.0:
   dependencies:
     restore-cursor "^2.0.0"
 
+"cli-jest-reporter@https://github.com/g2i/cli-jest-reporter":
+  version "1.0.0"
+  resolved "https://github.com/g2i/cli-jest-reporter#0e55a7f575b9f978cad1ae4c8394091718216801"
+
 cli-spinners@^2.0.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/cli-spinners/-/cli-spinners-2.6.0.tgz#36c7dc98fb6a9a76bd6238ec3f77e2425627e939"
